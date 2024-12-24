@@ -51,6 +51,10 @@ or
     echo "I'm in the function";
 });
 ```
+## LIVE USAGE
+[Composer Image ]([Composer commande.png](https://github.com/AminebajjiDEV/PHP_SIMPLE_ROUTER/blob/main/Composer%20commande.png))
+[Working Package ](https://github.com/AminebajjiDEV/PHP_SIMPLE_ROUTER/blob/main/Working%20Package.png)
+
 ## Testing
 
 this was developed for learning purposes. No tests have been written
