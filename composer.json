@@ -7,7 +7,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "AmineBajjiDev\\PhpSimpleRouter\\": "src/"
+            "aminebajjidev\\php_simple_router\\": "src/"
         }
     },
     "authors": [
