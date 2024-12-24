@@ -17,7 +17,7 @@ You need to have a .htaccess file to redirect everything to your index.php
 
 ```bash
 RewriteEngine On
-RewriteBase /PHP_COURSE/FIRST_PACKAGE/
+RewriteBase /YourSRC
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^(.+)$ index.php [QSA,L]
