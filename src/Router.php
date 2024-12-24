@@ -1,6 +1,6 @@
 <?php
 
-namespace AmineBajjiDev\PhpSimpleRouter;
+namespace aminebajjidev\PhpSimpleRouter;
 
 class Router
 {
