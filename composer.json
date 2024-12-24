@@ -1,0 +1,19 @@
+{
+    "name": "aminebajjidev/php_simple_router",
+    "description": "This is simple router that can handle HTTP REQUESTS, named or anonymous functions, from the course Learn everthing you need to start a successful carrer as a PHP developer.",
+    "require": {
+        "php": "^8.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AmineBajjiDev\\PhpSimpleRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aminebajjidev"
+        }
+    ],
+    "minimum-stability": "dev"
+}
